@@ -31,8 +31,7 @@ The Hotstar Clone is a web application that allows users to browse and search fo
 Here we have a project screenshot:
 
 <p align="center">
-<img src="![Screenshot](https://github.com/VedantSapate/Hotstar-Clone/assets/144541195/94136c2e-d868-476c-86dc-5a92af4f583c)
-" width="640" height="360" />
+<img src="https://github.com/VedantSapate/Hotstar-Clone/assets/144541195/94136c2e-d868-476c-86dc-5a92af4f583c" width="640" height="360" />
 </p>
 
 ## Customization
